@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349066528353"
-global.ownername = "🐛D A V I D "
+global.ownernomer = "2348126484665"
+global.ownername = "His Highness"
 global.ytname = "YT: Hacktivist Hive"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Nigeria"
 
-global.ownernumber = '2349066528353'  //creator number
-global.ownername = '🐛D A V I D' //owner name
+global.ownernumber = '2348126484665'  //creator number
+global.ownername = 'His Highness' //owner name
 global.botname = 'Thomas Shelby ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -31,11 +31,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
